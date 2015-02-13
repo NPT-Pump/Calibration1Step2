@@ -1,0 +1,4 @@
+Change 1.0.0 to 1.1 (17-Oct-12)
+
+**Revise data sheet item "step" to "no" then specify by ranning number
+ECN no.NP-01-0575-0
