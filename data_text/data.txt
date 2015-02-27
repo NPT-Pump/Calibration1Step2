@@ -1,0 +1,26 @@
+
+CoarsePosDownThreshold : 
+CoarsePosMidThreshold : 
+CoarsePosUpThreshold : 
+DistalCalSlope : 
+DistalRefTemp : 
+Distal25PSIThreashold : 
+InletOpenHi : 
+InletOpenLo : 
+InletCloseHi : 
+InletCloseLo : 
+OutletOpenHi : 
+OutletOpenLo : 
+OutletCloseHi : 
+OutletCloseLo : 
+InletNoTube : 
+OutletNoTube : 
+MisloadLowCalPoint : 
+MisloadUpCalPoint : 
+MisloadThreshold : 
+Backlash : 
+ShuttleThrowVolDown : 
+ShuttleThrowVolUp : 
+CRC : 
+LastSC : 
+SCM : 

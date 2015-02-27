@@ -1,0 +1,41 @@
+session_id : cal1step2_IB_PMU_C1S2-5_session_20110816_002
+start_date : 20110816
+start_time : 104012
+model_code : 212
+model_name : Colleague P1.7
+assy_no : 7036949
+pcba_no : PBV4129BA
+computer_name : IB_PMU_C1S2-5
+finish_date : 20110816
+finish_time : 111200
+create_userid : 14856
+create_fullname : MS.INTIRA AMARAPORNPISUT
+create_date : 20110816
+create_time : 104012
+update_userid : 14856
+update_fullname : MS.INTIRA AMARAPORNPISUT
+update_date : 20110816
+update_time : 104012
+down_value_dn1 : 153.3
+up_value_up1 : 161.9
+down_value_dn2 : 153.1
+up_value_up2 : 161.9
+down_value_dn3 : 153.1
+up_value_up3 : 161.7
+down_value_dn4 : 153.1
+up_value_up4 : 161.7
+down_value_dn5 : 153.4
+up_value_up5 : 162.3
+aggregate_sum_valuex : 1575.5
+balance_reading_valuey : 1580.5
+error : -0.32
+dn_new : 154
+up_new : 162
+error_status : P
+dn_new_status : P
+up_new_status : P
+data_sheet_revision : QR-MED-C-110-B
+program_version : 1.0.0
+result : P
+status : Y
+eeprom_version : V02.00.04
