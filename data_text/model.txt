@@ -1,2 +1,0 @@
-code=212	desc=Colleague P1.7		range1=5.0	range2=5.0	range3=5.0	range4=5.0	eeprom_version=V02.00.04
-code=204	desc=Colleague IB PMU	range1=5.0	range2=5.0	range3=5.0	range4=5.0	eeprom_version=V00.02.13

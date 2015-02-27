@@ -1,1 +1,0 @@
-java -cp .;lib\namiki-report.jar;lib\hitcha-core.jar;lib\namiki-domain.jar;lib\spring.jar;lib\commons-beanutils-1.8.0.jar;lib\commons-collections-2.1.1.jar;lib\commons-digester-1.7.jar;lib\commons-logging-1.0.4.jar;lib\groovy-all-1.5.5.jar;lib\iText-2.1.7.jar;lib\jasperreports-3.7.5.jar;lib\log4j-1.2.15.jar;lib\poi-3.6.jar   com.namiki.report.Cal1Step2GenReport %1 %2 %3 %4

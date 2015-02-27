@@ -1,3 +1,0 @@
-user_id=15931	fullname=Mr.CHAUWALIT  SASAT
-user_id=15966	fullname=MR.SATAWAT  GUNTA
-user_id=00265	fullname=MR.NIWAT  CHAIPOON
