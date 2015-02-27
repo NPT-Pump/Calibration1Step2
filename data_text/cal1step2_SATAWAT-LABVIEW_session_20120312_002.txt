@@ -1,0 +1,41 @@
+session_id : cal1step2_SATAWAT-LABVIEW_session_20120312_002
+start_date : 20120312
+start_time : 171344
+model_code : 212
+model_name : Colleague P1.7
+assy_no : 
+pcba_no : 
+computer_name : SATAWAT-LABVIEW
+finish_date : 20120312
+finish_time : 171431
+create_userid : 15966
+create_fullname : MR.SATAWAT  GUNTA
+create_date : 20120312
+create_time : 171344
+update_userid : 15966
+update_fullname : MR.SATAWAT  GUNTA
+update_date : 20120312
+update_time : 171344
+down_value_dn1 : 167.0
+up_value_up1 : 166.0
+down_value_dn2 : 167.0
+up_value_up2 : 166.0
+down_value_dn3 : 166.0
+up_value_up3 : 166.0
+down_value_dn4 : 166.0
+up_value_up4 : 155.0
+down_value_dn5 : 166.0
+up_value_up5 : 155.0
+aggregate_sum_valuex : 1640.0
+balance_reading_valuey : 1620.0
+error : 1.24
+dn_new : 167
+up_new : 162
+error_status : F
+dn_new_status : F
+up_new_status : P
+data_sheet_revision : QR-MED-C-110-B
+program_version : 1.0.0
+result : F
+status : Y
+eeprom_version : 
