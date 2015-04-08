@@ -1,0 +1,41 @@
+session_id : cal1step2_IB_PMU_C1S2-5_session_20110816_003
+start_date : 20110816
+start_time : 111445
+model_code : 212
+model_name : Colleague P1.7
+assy_no : 
+pcba_no : 
+computer_name : IB_PMU_C1S2-5
+finish_date : 20110816
+finish_time : 111915
+create_userid : 00265
+create_fullname : MR.NIWAT  CHAIPOON
+create_date : 20110816
+create_time : 111445
+update_userid : 00265
+update_fullname : MR.NIWAT  CHAIPOON
+update_date : 20110816
+update_time : 111445
+down_value_dn1 : 166.0
+up_value_up1 : 166.0
+down_value_dn2 : 166.0
+up_value_up2 : 166.0
+down_value_dn3 : 166.0
+up_value_up3 : 166.0
+down_value_dn4 : 166.0
+up_value_up4 : 166.0
+down_value_dn5 : 166.0
+up_value_up5 : 166.0
+aggregate_sum_valuex : 1660.0
+balance_reading_valuey : 1676.8
+error : -1.00
+dn_new : 167
+up_new : 167
+error_status : PASS
+dn_new_status : F
+up_new_status : F
+data_sheet_revision : QR-MED-C-110-B
+program_version : 1.0.0
+result : F
+status : YES
+eeprom_version : 
